@@ -1,4 +1,4 @@
-# Offce Directory Project
+# Office Directory Project
 
 This is a simple console program to maintain an office directory.
 
